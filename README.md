@@ -1,4 +1,4 @@
 danpilo.github.io
 =================
 
-Professional page
+This is Daniel Pilowsky M.D.'s professional page.
